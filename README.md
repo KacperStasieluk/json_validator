@@ -36,7 +36,7 @@ python json_validator.py
 4. User-friendly interface with tooltips for additional guidance.
 
 ## Contributing
-Contributions to the Random JSON Generator are welcome. Please ensure your pull requests are well-documented.
+Contributions to the JSON Validator are welcome. Please ensure your pull requests are well-documented.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
